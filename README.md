@@ -1,6 +1,6 @@
 # OIAC Prayer - Omar Ibn Al Khattab Centre
 
-Prayer times notification app for [Omar Ibn Al Khattab Centre](https://www.oiacedmonton.ca/) in Edmonton, AB.
+Prayer times notification app for [Omar Ibn Al Khattab Centre](https://www.oiacedmonton.ca/) in Edmonton, AB. Will hopefully be an IOS app soon
 
 ## Features
 
